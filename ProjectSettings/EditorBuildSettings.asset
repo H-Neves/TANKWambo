@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/TANKWambo/TANKWambo_test.unity
     guid: 9a97f4c478efd404d968b50c4c45b52e
+  - enabled: 1
+    path: Assets/TANKWambo/TankWambo_Swifty.unity
+    guid: 64c309fa427b8834f9613274b05d90df
   m_configObjects: {}
